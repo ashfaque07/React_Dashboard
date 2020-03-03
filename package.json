@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "3.3.7",
+    "bootstrap": "^4.4.1",
     "chartist": "0.10.1",
     "node-sass": "^4.13.1",
     "npm": "^6.14.1",
@@ -16,15 +16,19 @@
     "react-router": "5.0.0",
     "react-router-dom": "5.0.0",
     "react-scripts": "^3.4.0",
-    "react-toggle": "4.0.2"
+    "react-toggle": "4.0.2",
+    "homepage": "https://ashfaque07.github.io/React_Dashboard"
   },
   "devDependencies": {
     "@types/googlemaps": "3.30.19",
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "16.8.13",
+    "gh-pages": "^2.2.0",
     "typescript": "3.4.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
