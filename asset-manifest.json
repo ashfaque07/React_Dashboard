@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React_Dashboard_2/static/css/main.cce1381e.chunk.css",
+    "main.js": "/React_Dashboard_2/static/js/main.d922f6e5.chunk.js",
+    "main.js.map": "/React_Dashboard_2/static/js/main.d922f6e5.chunk.js.map",
+    "runtime-main.js": "/React_Dashboard_2/static/js/runtime-main.1b42145b.js",
+    "runtime-main.js.map": "/React_Dashboard_2/static/js/runtime-main.1b42145b.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/React_Dashboard_2/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e038513f.chunk.js": "/React_Dashboard_2/static/js/2.e038513f.chunk.js",
+    "static/js/2.e038513f.chunk.js.map": "/React_Dashboard_2/static/js/2.e038513f.chunk.js.map",
+    "index.html": "/React_Dashboard_2/index.html",
+    "precache-manifest.97a0b8f3a30020a2b65efa847318f688.js": "/React_Dashboard_2/precache-manifest.97a0b8f3a30020a2b65efa847318f688.js",
+    "service-worker.js": "/React_Dashboard_2/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/React_Dashboard_2/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.cce1381e.chunk.css.map": "/React_Dashboard_2/static/css/main.cce1381e.chunk.css.map",
+    "static/js/2.e038513f.chunk.js.LICENSE.txt": "/React_Dashboard_2/static/js/2.e038513f.chunk.js.LICENSE.txt",
+    "static/js/main.d922f6e5.chunk.js.LICENSE.txt": "/React_Dashboard_2/static/js/main.d922f6e5.chunk.js.LICENSE.txt",
+    "static/media/pe-icon-7-stroke.css": "/React_Dashboard_2/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/media/face-3.jpg": "/React_Dashboard_2/static/media/face-3.ce7a6b79.jpg",
+    "static/media/reactlogo.png": "/React_Dashboard_2/static/media/reactlogo.9b864b36.png",
+    "static/media/sidebar-1.jpg": "/React_Dashboard_2/static/media/sidebar-1.6be21e8a.jpg",
+    "static/media/sidebar-2.jpg": "/React_Dashboard_2/static/media/sidebar-2.7a4ce7cc.jpg",
+    "static/media/sidebar-3.jpg": "/React_Dashboard_2/static/media/sidebar-3.34535b95.jpg",
+    "static/media/sidebar-4.jpg": "/React_Dashboard_2/static/media/sidebar-4.7bc259fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b42145b.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e038513f.chunk.js",
+    "static/css/main.cce1381e.chunk.css",
+    "static/js/main.d922f6e5.chunk.js"
+  ]
+}
